@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gumps>
+	<anchored_group_gump matrix_w="2" matrix_h="2">
+		<gump type="16" x="325" y="700" serial="0" id="21" matrix_x="0" matrix_y="0" />
+		<gump type="16" x="325" y="700" serial="0" id="21" matrix_x="1" matrix_y="0" />
+		<gump type="16" x="325" y="744" serial="0" id="47" matrix_x="0" matrix_y="1" />
+		<gump type="16" x="325" y="744" serial="0" id="47" matrix_x="1" matrix_y="1" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="2" matrix_h="1">
+		<gump type="4" x="1231" y="806" serial="4084944" matrix_x="1" matrix_y="0" />
+	</anchored_group_gump>
+	<gump type="9" x="2228" y="344" serial="4084944" isminimized="False" />
+	<gump type="2" x="1932" y="88" serial="1465195427" graphic="60" isminimized="False" />
+	<gump type="5" x="587" y="1363" serial="0" />
+	<gump type="24" x="145" y="520" serial="0" />
+	<gump type="7" x="2405" y="1124" serial="1011" name="move" graphicId="0" hideLabel="False" scale="1" />
+	<gump type="7" x="1823" y="849" serial="1008" name="hide" graphicId="0" hideLabel="False" scale="1" />
+	<gump type="18" x="1629" y="150" serial="0" />
+</gumps>

@@ -1,0 +1,29 @@
+@setvar! lag 200
+
+if not timerexists 'stealth'
+    createtimer 'stealth'
+endif
+
+settimer 'stealth' 0
+if not hidden
+    skill 'Hiding'
+    wait lag
+    while hidden and timer 'stealth' < 10000
+       overhead '[stealth WAIT]' 33
+       wait 2000
+    endwhile
+
+    if hidden
+       waitforsysmsg 'You feel comfortable enough to begin stealthing.'
+       wait lag
+       skill 'Stealth'
+    endif
+else
+    if timer 'stealth' > 10000
+       waitforsysmsg 'You feel ready to continue stealthing.'
+       waitforsysmsg 'You have 0 stealth steps remaining.'
+    endif
+    
+    wait lag
+    skill 'Stealth'
+endif

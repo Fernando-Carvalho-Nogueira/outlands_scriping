@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gumps>
+	<anchored_group_gump matrix_w="1" matrix_h="2">
+		<gump type="7" x="1137" y="1169" serial="1010" name="lock" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="1137" y="1213" serial="1011" name="release" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="1" />
+	</anchored_group_gump>
+	<gump type="9" x="2256" y="533" serial="4698520" isminimized="False" />
+	<gump type="2" x="1797" y="919" serial="1467600341" graphic="68" isminimized="False" />
+	<gump type="10" x="1812" y="900" serial="0" isminimized="False" height="541" />
+	<gump type="5" x="300" y="300" serial="0" />
+	<gump type="18" x="1873" y="56" serial="0" />
+</gumps>

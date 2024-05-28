@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gumps>
+	<gump type="9" x="1670" y="315" serial="5836873" isminimized="False" />
+	<gump type="2" x="2031" y="644" serial="1645889143" graphic="60" isminimized="False" />
+	<gump type="2" x="2213" y="458" serial="1699532524" graphic="60" isminimized="False" />
+	<gump type="2" x="1974" y="886" serial="1138193276" graphic="75" isminimized="False" />
+	<gump type="2" x="2043" y="502" serial="1467600341" graphic="68" isminimized="False" />
+	<gump type="2" x="1934" y="846" serial="1699532525" graphic="60" isminimized="False" />
+	<gump type="2" x="1664" y="814" serial="1117075637" graphic="75" isminimized="False" />
+	<gump type="5" x="300" y="300" serial="0" />
+	<gump type="10" x="1270" y="651" serial="0" isminimized="False" height="473" />
+</gumps>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<macros>
+	<macro name="Paperdoll" key="112" mousebutton="0" alt="True" ctrl="False" shift="False">
+		<actions>
+			<action code="8" subcode="10" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Options" key="111" mousebutton="0" alt="True" ctrl="False" shift="False">
+		<actions>
+			<action code="8" subcode="9" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Journal" key="106" mousebutton="0" alt="True" ctrl="False" shift="False">
+		<actions>
+			<action code="8" subcode="12" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Open Status Bar" key="115" mousebutton="0" alt="True" ctrl="False" shift="False">
+		<actions>
+			<action code="8" subcode="11" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Backpack" key="105" mousebutton="0" alt="True" ctrl="False" shift="False">
+		<actions>
+			<action code="8" subcode="16" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Radar" key="114" mousebutton="0" alt="True" ctrl="False" shift="False">
+		<actions>
+			<action code="8" subcode="17" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Bow" key="98" mousebutton="0" alt="False" ctrl="True" shift="False">
+		<actions>
+			<action code="18" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Salute" key="115" mousebutton="0" alt="False" ctrl="True" shift="False">
+		<actions>
+			<action code="19" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="hide" key="50" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="13" subcode="43" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="heal" key="51" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="26" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="skinning" key="96" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="13" subcode="42" submenutype="1" />
+			<action code="23" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="move" key="93" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="5" subcode="2" submenutype="1" />
+			<action code="28" subcode="0" submenutype="2" text="1000" />
+			<action code="5" subcode="2" submenutype="1" />
+			<action code="28" subcode="0" submenutype="2" text="1000" />
+			<action code="5" subcode="6" submenutype="1" />
+			<action code="28" subcode="0" submenutype="2" text="1000" />
+			<action code="5" subcode="6" submenutype="1" />
+			<action code="28" subcode="0" submenutype="2" text="10000" />
+			<action code="13" subcode="43" submenutype="1" />
+			<action code="28" subcode="0" submenutype="2" text="12000" />
+		</actions>
+	</macro>
+	<macro name="heal self" key="52" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="15" subcode="150" submenutype="1" />
+			<action code="25" subcode="0" submenutype="0" />
+			<action code="23" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+</macros>

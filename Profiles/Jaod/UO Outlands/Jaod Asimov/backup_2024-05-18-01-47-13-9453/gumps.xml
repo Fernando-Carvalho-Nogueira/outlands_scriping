@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gumps>
+	<anchored_group_gump matrix_w="6" matrix_h="1">
+		<gump type="16" x="1189" y="997" serial="0" id="21" matrix_x="0" matrix_y="0" />
+		<gump type="16" x="1189" y="997" serial="0" id="21" matrix_x="1" matrix_y="0" />
+		<gump type="16" x="1277" y="997" serial="0" id="47" matrix_x="2" matrix_y="0" />
+		<gump type="16" x="1277" y="997" serial="0" id="47" matrix_x="3" matrix_y="0" />
+		<gump type="16" x="1365" y="997" serial="0" id="3" matrix_x="4" matrix_y="0" />
+		<gump type="16" x="1365" y="997" serial="0" id="3" matrix_x="5" matrix_y="0" />
+	</anchored_group_gump>
+	<gump type="2" x="191" y="630" serial="1403728697" graphic="60" isminimized="False" />
+	<gump type="9" x="2253" y="72" serial="3511716" isminimized="False" />
+	<gump type="5" x="300" y="300" serial="0" />
+	<gump type="10" x="2193" y="399" serial="0" isminimized="False" height="466" />
+	<gump type="7" x="1054" y="1118" serial="1012" name="test 2" graphicId="0" hideLabel="False" scale="1" />
+	<gump type="7" x="1002" y="280" serial="1010" name="heal self 2" graphicId="0" hideLabel="False" scale="0.8" />
+	<gump type="18" x="2" y="557" serial="0" />
+</gumps>

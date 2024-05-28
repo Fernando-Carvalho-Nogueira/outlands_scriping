@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gumps>
+	<anchored_group_gump matrix_w="2" matrix_h="2">
+		<gump type="15" x="749" y="942" serial="0" id="5" matrix_x="0" matrix_y="0" />
+		<gump type="15" x="793" y="942" serial="0" id="11" matrix_x="1" matrix_y="0" />
+		<gump type="15" x="793" y="986" serial="0" id="20" matrix_x="1" matrix_y="1" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="3" matrix_h="5">
+		<gump type="15" x="630" y="784" serial="0" id="15" matrix_x="0" matrix_y="0" />
+		<gump type="15" x="674" y="784" serial="0" id="7" matrix_x="1" matrix_y="0" />
+		<gump type="15" x="718" y="784" serial="0" id="22" matrix_x="2" matrix_y="0" />
+		<gump type="15" x="630" y="828" serial="0" id="29" matrix_x="0" matrix_y="1" />
+		<gump type="15" x="674" y="828" serial="0" id="30" matrix_x="1" matrix_y="1" />
+		<gump type="15" x="674" y="872" serial="0" id="37" matrix_x="1" matrix_y="2" />
+		<gump type="15" x="674" y="916" serial="0" id="40" matrix_x="1" matrix_y="3" />
+		<gump type="15" x="674" y="960" serial="0" id="42" matrix_x="1" matrix_y="4" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="1" matrix_h="2">
+		<gump matrix_x="0" matrix_y="0" />
+		<gump matrix_x="0" matrix_y="1" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="2" matrix_h="2">
+		<gump matrix_x="0" matrix_y="0" />
+		<gump matrix_x="0" matrix_y="1" />
+		<gump matrix_x="1" matrix_y="1" />
+	</anchored_group_gump>
+	<gump />
+	<gump type="9" x="2296" y="-3" serial="3438507" isminimized="False" />
+	<gump type="2" x="2297" y="408" serial="1395893746" graphic="60" isminimized="False" />
+	<gump type="2" x="920" y="920" serial="1395893752" graphic="60" isminimized="False" />
+	<gump type="2" x="2349" y="723" serial="1395893748" graphic="61" isminimized="False" />
+	<gump type="11" x="1645" y="1020" serial="1395893756" isminimized="False" />
+	<gump type="21" x="100" y="100" serial="0" />
+	<gump type="1" x="100" y="100" serial="0" graphic="30080" direction="1" />
+	<gump type="18" x="60" y="527" serial="0" />
+</gumps>
